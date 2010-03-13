@@ -1,0 +1,4 @@
+*.elf
+*.nds
+*.arm9
+build/*
